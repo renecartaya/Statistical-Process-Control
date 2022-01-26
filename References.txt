@@ -1,3 +1,4 @@
 References
 
-[1] https://towardsdatascience.com/quality-control-charts-guide-for-python-9bb1c859c051
+[1] https://en.wikipedia.org/wiki/Statistical_process_control
+[2] https://towardsdatascience.com/quality-control-charts-guide-for-python-9bb1c859c051
