@@ -22,3 +22,5 @@ The tool set includes:
  9) np-chart
 
 represented using Matplotlib.
+
+The project includes the data generation for didactic purposes. 
