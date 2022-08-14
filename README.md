@@ -1,6 +1,6 @@
 # Statistical-Process-Control (SPC)
 
-Project dedicated to the development and implementation of Statistical Process Control in manufacturing process. 
+A project dedicated to developing and implementing Statistical Process Control in manufacturing environments.
 
 The repository is mainly developed in Python and requires the packages:
 
